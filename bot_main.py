@@ -4,7 +4,7 @@ import requests
 
 API_URL = "http://127.0.0.1:8000/api"
 
-BOT_TOKEN = "7973269831:AAFUzw4MjXR8HyJ9nbvjvzneDtvqZXxJFoQ"
+BOT_TOKEN = "Ваш токен"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
